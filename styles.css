@@ -42,7 +42,7 @@ label{
 	background-color: #fff;
     box-shadow: inset 1px 1px 5px rgba(0,0,0,0.3);
 }
-button#submit{
+#submit{
 	width:520px;
 	padding:9px;
     font-size: 21px;
